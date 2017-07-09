@@ -1,0 +1,31 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --progress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eryue0220/learning-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "cin chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eryue0220/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/eryue0220/learning-typescript#readme",
+  "dependencies": {
+    "@types/jquery": "^3.2.6",
+    "@types/node": "^8.0.9"
+  },
+  "devDependencies": {
+    "ts-loader": "^2.2.2",
+    "webpack": "^3.1.0"
+  }
+}
